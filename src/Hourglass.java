@@ -12,6 +12,7 @@ public class Hourglass {
 		}
 		System.out.print("|");
 	}
+	public static void middle()
 	public static void main(String[] args) {
 		bases();
 		

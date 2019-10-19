@@ -1,3 +1,9 @@
+/* Grading - Sarah Gilliam
+
+Great job! 27/25
+
+*/
+
 /*Produce a modifiable output by way of a single class constant
  * Class constant must
  * 		- Change width of first line
